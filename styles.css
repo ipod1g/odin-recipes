@@ -1,0 +1,44 @@
+/* Customizing our webpage */
+
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 38px;
+}
+
+.title.header {
+    background-color: darkorange;
+    color: azure;
+    text-align: center;
+    font-weight: 400;
+}
+.title.header.main {
+    font-size: 70px;
+}
+
+.subheader {
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+
+#lasagna, 
+#shawarma {
+    font-size: 30px;
+    background-color: beige;
+    padding: 8px;
+}
+
+a {
+    text-decoration:none;
+}
+
+.text {
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body { 
+    text-align: center;
+    list-style: inside;
+}
